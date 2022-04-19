@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 3828a9991c74ce94ba8e19ca0b3eaa27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6785234522040879356
+    second: CyberSheet_0
+  - first:
+      213: -311561213874206111
+    second: CyberSheet_1
+  - first:
+      213: 1869337233720742720
+    second: CyberSheet_2
+  - first:
+      213: -8325304080743411327
+    second: CyberSheet_3
+  - first:
+      213: -4652916762263416463
+    second: CyberSheet_4
+  - first:
+      213: -3076565574876240484
+    second: CyberSheet_5
+  - first:
+      213: -2745902437842656574
+    second: CyberSheet_6
+  - first:
+      213: 3411319194876790437
+    second: CyberSheet_7
+  - first:
+      213: -8857803384299150891
+    second: CyberSheet_8
+  - first:
+      213: -2427158943008355111
+    second: CyberSheet_9
+  - first:
+      213: -1299907513637633118
+    second: CyberSheet_10
+  - first:
+      213: -4679505028187803491
+    second: CyberSheet_11
+  - first:
+      213: 7959129568190232205
+    second: CyberSheet_12
+  - first:
+      213: 7808216149502016895
+    second: CyberSheet_13
+  - first:
+      213: -5105535672072906921
+    second: CyberSheet_14
+  - first:
+      213: 4718336402125600141
+    second: CyberSheet_15
+  - first:
+      213: -7517806129626876820
+    second: CyberSheet_16
+  - first:
+      213: -646640097920977563
+    second: CyberSheet_17
+  - first:
+      213: 87258256332243671
+    second: CyberSheet_18
+  - first:
+      213: 6686937041567325188
+    second: CyberSheet_19
+  - first:
+      213: 9174134443694830349
+    second: CyberSheet_20
+  - first:
+      213: -4318259923308655804
+    second: CyberSheet_21
+  - first:
+      213: 5736526906583363925
+    second: CyberSheet_22
+  - first:
+      213: -5050714569095957323
+    second: CyberSheet_23
+  - first:
+      213: 3989483504895911390
+    second: CyberSheet_24
+  - first:
+      213: 3594366177406303122
+    second: CyberSheet_25
+  - first:
+      213: 6311017871648009413
+    second: CyberSheet_26
+  - first:
+      213: 1284401371165680356
+    second: CyberSheet_27
+  - first:
+      213: -2912529104205012370
+    second: CyberSheet_28
+  - first:
+      213: -2846553442056130218
+    second: CyberSheet_29
+  - first:
+      213: -4401878433182754922
+    second: CyberSheet_30
+  - first:
+      213: 591503054317447507
+    second: CyberSheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CyberSheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 224
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8c6fb19def92e50800000000000000
+      internalID: 6785234522040879356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 224
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0d390abc1dabf0800000000000000
+      internalID: -311561213874206111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04316555f4831f910800000000000000
+      internalID: 1869337233720742720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 226
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181dd244c04967c80800000000000000
+      internalID: -8325304080743411327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 224
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17114df5bd48d6fb0800000000000000
+      internalID: -4652916762263416463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 224
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c956e45f8e7dd45d0800000000000000
+      internalID: -3076565574876240484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2628cf74894e9d0800000000000000
+      internalID: -2745902437842656574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64a1adbb0775f20800000000000000
+      internalID: 3411319194876790437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a89ca0c2c21580800000000000000
+      internalID: -8857803384299150891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc039c0dcff05ed0800000000000000
+      internalID: -2427158943008355111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a384c8e00dc5fde0800000000000000
+      internalID: -1299907513637633118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 160
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90363e48fe0f0fb0800000000000000
+      internalID: -4679505028187803491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8679494c22847e60800000000000000
+      internalID: 7959129568190232205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 160
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3980e73b5c5c60800000000000000
+      internalID: 7808216149502016895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 160
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75752064b5e7529b0800000000000000
+      internalID: -5105535672072906921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_15
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 160
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85bd7b75f5ea7140800000000000000
+      internalID: 4718336402125600141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 96
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64f559f7236ba790800000000000000
+      internalID: -7517806129626876820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56575e9c14ca607f0800000000000000
+      internalID: -646640097920977563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 100
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2476cfbe0063100800000000000000
+      internalID: 87258256332243671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c95067fc5cccc50800000000000000
+      internalID: 6686937041567325188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 96
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d033b1e7ba2115f70800000000000000
+      internalID: 9174134443694830349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 96
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc1679a757214c0800000000000000
+      internalID: -4318259923308655804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513f5ff3dc3c9f40800000000000000
+      internalID: 5736526906583363925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b43527fbd148e9b0800000000000000
+      internalID: -5050714569095957323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 32
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e99a4c1e7d5730800000000000000
+      internalID: 3989483504895911390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3bfc9ef0c1e130800000000000000
+      internalID: 3594366177406303122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 32
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cca8ba215d359750800000000000000
+      internalID: 6311017871648009413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 32
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ea55fd3c13d110800000000000000
+      internalID: 1284401371165680356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 32
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62afd1063e9497d0800000000000000
+      internalID: -2912529104205012370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 32
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6513414e9b20f78d0800000000000000
+      internalID: -2846553442056130218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_30
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69750bd13e269e2c0800000000000000
+      internalID: -4401878433182754922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberSheet_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 32
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359662cd4e0753800800000000000000
+      internalID: 591503054317447507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
